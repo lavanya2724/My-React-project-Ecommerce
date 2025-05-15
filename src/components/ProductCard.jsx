@@ -60,8 +60,8 @@ export default function ProductCard({ product }) {
     };
 
     const buttonStyle = {
-        backgroundColor: "#FF5722", // standard orange for action
-        color: "#fff",
+        backgroundColor: "#8F00FF", // standard volite for action
+        color: "F00FF",
         border: "none",
         padding: "12px 0",
         fontSize: "16px",
